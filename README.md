@@ -48,7 +48,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
+git clone https://github.com/TIKIof/GataBot
 cd GataBotLite-MD
 yarn install
 npm install
